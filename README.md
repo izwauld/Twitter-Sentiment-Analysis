@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-NLP/Deep Learning approach to sentiment analysis
+Sentiment Analysis using NLP techniques
