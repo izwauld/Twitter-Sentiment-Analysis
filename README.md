@@ -15,4 +15,6 @@ The following tools/dependencies were used in the project:
 
 ## Running the notebooks
 
-Firstly, make sure to download the training and testing datasets from the Kaggle Competition page [here](https://www.kaggle.com/c/nlp-getting-started/overview). Then, with the `train.csv` and `test.csv` files, the notebooks can be run as-is. A full walkthrough of the code is given within the notebooks themselves.
+Firstly, make sure to download the training and testing datasets (`train.csv`, `test.csv`) from the Kaggle Competition page [here](https://www.kaggle.com/c/nlp-getting-started/overview). Then, with the `train.csv` and `test.csv` files, the notebooks can be run as-is. 
+
+A full walkthrough of the code is given within the notebooks themselves.
