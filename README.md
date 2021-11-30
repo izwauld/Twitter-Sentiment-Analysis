@@ -17,4 +17,6 @@ The following tools/dependencies were used in the project:
 
 Firstly, make sure to download the training and testing datasets (`train.csv`, `test.csv`) from the Kaggle Competition page [here](https://www.kaggle.com/c/nlp-getting-started/overview). Then, with the `train.csv` and `test.csv` files, the notebooks can be run as-is. 
 
-A full walkthrough of the code is given within the notebooks themselves.
+A full walkthrough of the code is given within the notebooks themselves. 
+
+Additionally, since Github fails to render inline math equations, a description of the NB model is shown in the file `NB_description.png`
